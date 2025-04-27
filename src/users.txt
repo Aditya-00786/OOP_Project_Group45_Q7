@@ -1,0 +1,6 @@
+admin1,admin123,Admin
+inf1,pass123,Influencer
+inf2,pass123,Influencer
+inf3,pass123,Influencer
+brand1,pass123,BrandManager
+brand2,pass123,BrandManager
